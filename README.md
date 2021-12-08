@@ -17,7 +17,7 @@ Things we might have in common:
 - 💣 High interest in building and experiementing with various malware;
 - 💬 My current language of interest is C#;
 - 📝 From time to time I will write research papers on [sentientchip](https://sentientchip.com/);
-- 
+- ...
 
 ---------------------------------------------------------------------------   
 
