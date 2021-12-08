@@ -7,7 +7,7 @@
 Hello stranger! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=madalin-dogaru)
 ---
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/madalin-dogaru/madalin-dogaru/blob/master/brain.gif?raw=true" width="400" height="300" />
   
 
 Things we might have in common:
