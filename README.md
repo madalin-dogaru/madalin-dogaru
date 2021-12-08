@@ -17,15 +17,19 @@ Things we might have in common:
 - 💣 High interest in building and experiementing with various malware;
 - 💬 My current language of interest is C#;
 - 📝 From time to time I will write research papers on [sentientchip.com](https://sentientchip.com/);
-
+- test
+- test
+- test
+- test
+---------------------------------------------------------------------------   
 
 📈 My GitHub Stats:
 ---
-
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madalin-dogaru&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madalin-dogaru&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=madalin-dogaru&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madalin-dogaru&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
 
 
 
