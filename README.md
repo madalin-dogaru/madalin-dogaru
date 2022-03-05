@@ -13,9 +13,9 @@ Hello stranger! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=madalin
 Things we might have in common:
 ---
 
-- 💢 I'm focused on how C2s work and I'm currently building one;
+- 💢 I'm currently focused on Web Exploitation
 - 💣 High interest in building and experiementing with various malware;
-- 💬 My current language of interest is C#;
+- 💬 My current language of interest is Python
 - 📝 From time to time I will write research papers on [sentientchip](https://sentientchip.com/);
 - ...
 
