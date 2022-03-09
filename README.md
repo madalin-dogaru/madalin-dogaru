@@ -14,7 +14,7 @@ Things we might have in common:
 ---
 
 - 💢 I'm currently focused on Web Exploitation
-- 💣 High interest in building and experiementing with various malware;
+- 💣 High interest in building and experimenting with various malware;
 - 💬 My current language of interest is Python
 - 📝 From time to time I will write research papers on [sentientchip](https://sentientchip.com/);
 - ...
