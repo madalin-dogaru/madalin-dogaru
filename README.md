@@ -13,10 +13,10 @@ Hello stranger! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=madalin
 Things we might have in common:
 ---
 
-- 💢 I'm currently focused on Web Exploitation
+- 💢 Focusing on IoT exploitation and research
 - 💣 High interest in building and experimenting with various malware;
-- 💬 My current language of interest is Python
-- 📝 From time to time I will write research papers on [sentientchip](https://sentientchip.com/);
+- 💬 My current languages of interest is Assembly and C
+- 📝 From time to time I will write research papers on [IOT41](https://iot41.com/);
 - ...
 
 ---------------------------------------------------------------------------   
