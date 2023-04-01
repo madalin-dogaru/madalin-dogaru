@@ -10,8 +10,8 @@ Hello stranger! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=madalin
 <img align="right" alt="GIF" src="https://github.com/madalin-dogaru/madalin-dogaru/blob/master/brain.gif?raw=true" width="300" height="200" />
   
 
-#### Things we might have in common:
-
+Things we might have in common:
+---
 
 - 💢 Focusing on IoT exploitation and research.
 - 💣 High interest in building and experimenting with various malware.
