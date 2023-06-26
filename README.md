@@ -16,7 +16,6 @@ Things we might have in common:
 - 💢 Focusing on IoT exploitation and research.
 - 💣 High interest in building and experimenting with various malware.
 - 💬 My current languages of interest are ARM-Assembly, Python and C#.
-- 📝 From time to time I will write research papers on [IOT41](https://iot41.com/).
 - ...
 
 ---------------------------------------------------------------------------   
