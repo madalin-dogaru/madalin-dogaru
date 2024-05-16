@@ -13,9 +13,9 @@ Hello stranger! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=madalin
 Things we might have in common:
 ---
 
-- 💢 Focusing on IoT exploitation and research.
+- 💢 Focusing on Red Teaming.
 - 💣 High interest in building and experimenting with various malware.
-- 💬 My current languages of interest are ARM-Assembly, Python and C#.
+- 💬 My current languages of interest are ARM-Assembly, Python, Rust and C#.
 - ...
 
 ---------------------------------------------------------------------------   
