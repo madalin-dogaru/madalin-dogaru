@@ -13,9 +13,8 @@ Hello stranger! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=madalin
 Things we might have in common:
 ---
 
-- 💢 Focusing on Red Teaming.
-- 💣 High interest in building and experimenting with various malware.
-- 💬 My current languages of interest are ARM-Assembly, Python, Rust and C#.
+- 💢 Focusing on Malware Development.
+- 💬 Working mostly with C, Assembly, Python.
 - ...
 
 ---------------------------------------------------------------------------   
