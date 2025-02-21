@@ -13,8 +13,8 @@ Hello stranger! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=madalin
 Things we might have in common:
 ---
 
-- 💢 Focusing on reversing radio signals, IoT apps
-- 💬 Working mostly with C, Assembly, Python, BladeRF, Ubertooth and a stick to beat signals into submission..
+- 💢 Focusing on reversing radio signals and IoT apps.
+- 💬 Working mostly with C, Assembly, Python, BladeRF, Ubertooth and a stick to beat signals into submission.
 - ...
 
 ---------------------------------------------------------------------------   
